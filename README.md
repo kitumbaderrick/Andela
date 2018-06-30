@@ -35,7 +35,7 @@ For more on services worker and cache api details see [Service Worker](https://d
 This application is hosted on using Github page [visit here](https://walkerhunks.github.io/cu/).
      ****** Support or Contact
      
-          Having trouble with Pages? Feel free to send me a mail at kitumbaderrick1.@gmail.com
+         Send me an email for any problem in the application  at kitumbaderrick1.@gmail.com
           
           
      
