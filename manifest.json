@@ -1,0 +1,15 @@
+{
+  "short_name": "Cuc",
+  "name": "Cuc",
+  "icons": [{
+    "sizes": "144x144",
+    "type": "image/png",
+    "src": "img/logo.png"
+    
+  }],
+  "start_url": "/",
+  "background_color": "#EEEEEE",
+  "theme_color": "#EEEEEE",
+  "display": "standalone"
+  
+}
