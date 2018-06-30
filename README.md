@@ -2,7 +2,7 @@
 
 
 # Andela 7daysofCode
-                             ********Author Kitumba Derrick  7days Challenge******************
+                             ********Author Kitumba Derrick  7daysofCode Challenge******************
 
 ## Currency Converter Cuc is a currency converter application that allows converting currencies in both offline and online mode.
 
