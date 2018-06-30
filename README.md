@@ -32,7 +32,7 @@ https://developers.google.com/web/ilt/pwa/introduction-to-service-worker).
 For more on services worker and cache api details see [Service Worker](https://developers.google.com/web/ilt/pwa/introduction-to-service-worker).
 
 ***************** Github page
-This application is hosted on using Github page [visit here](https://walkerhunks.github.io/cu/).
+This application is hosted on using Github page [visit here](https://walkerhunks.github.io/Andela).
      ****** Support or Contact
      
          Send me an email for any problem in the application  at kitumbaderrick1.@gmail.com
